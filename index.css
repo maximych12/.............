@@ -1,1 +1,25 @@
+body {
+    font-family: sans-serif;
+}
 
+nav a {
+    text-decoration: none;
+    color: gold;
+} 
+
+header a {
+    text-decoration: none;
+    color: gold;
+}
+h1 {background-color: aqua;
+    padding: 20px 20px 20px 150px;
+    border-radius:30px;
+    color:gold ;
+    
+}
+footer p {background-color:aqua ;
+    padding:20px 200px 20px 200px ;
+    text-decoration: none;
+    border-radius:30px ; }
+.max {padding:20px 90px 20px 90px ;
+     border-radius:30px ;}
